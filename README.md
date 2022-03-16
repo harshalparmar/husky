@@ -1,6 +1,6 @@
 # husky
 
-Husky dog animation using css and html with
+Husky dog animation using css and html
 
 Github pages: https://harshalparmar.github.io/husky/
 
